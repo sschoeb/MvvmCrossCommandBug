@@ -1,0 +1,8 @@
+E:\Projects\Private\CommandBug\CommandBug.Core\bin\Debug\CommandBug.Core.dll
+E:\Projects\Private\CommandBug\CommandBug.Core\bin\Debug\CommandBug.Core.pdb
+E:\Projects\Private\CommandBug\CommandBug.Core\bin\Debug\Cirrious.CrossCore.dll
+E:\Projects\Private\CommandBug\CommandBug.Core\bin\Debug\Cirrious.MvvmCross.dll
+E:\Projects\Private\CommandBug\CommandBug.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\Projects\Private\CommandBug\CommandBug.Core\obj\Debug\CommandBug.Core.csprojResolveAssemblyReference.cache
+E:\Projects\Private\CommandBug\CommandBug.Core\obj\Debug\CommandBug.Core.dll
+E:\Projects\Private\CommandBug\CommandBug.Core\obj\Debug\CommandBug.Core.pdb
